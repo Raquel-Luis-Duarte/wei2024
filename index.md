@@ -1,5 +1,5 @@
 ---
-title: Manual 
+title: Manual Prático do Desesnvolvedor Moderno
 ---
 
 
