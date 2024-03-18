@@ -1,7 +1,11 @@
 ---
  Manual Prático do Desenvolvedor Moderno: Alunos como criadores de conteúdos
 ---
+# Manual Prático do Desenvolvedor Moderno: Um Livro de Aluno para Aluno
 
+Este trabalho apresenta um relato de experiência de um projeto para criação de um livro, no qual os alunos são criadores de conteúdos. O projeto conta com a participação de 18 alunos na criação de conteúdos voltados para o desenvolvimento de software para Web.  Foi adotada a metodologia de aprendizagem de sala de aula invertida na qual os alunos se tornam ativos no processo de aprendizagem. Como avaliação do projeto, os participantes responderam um formulário, onde foram levantados lições aprendidas e desafios do projeto. Esse relato pode apoiar professores e alunos para utilizar a experiência relatada neste trabalho para aplicação em seus cursos e disciplinas.
+
+Abaixo segue os capítulos que compõe o livro, bem como as descrições de cada capítulo.
 
 | Título do capítulo                                                                 | Descrição dos capítulos do livro                                                                                                                                                       |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,4 +28,12 @@
 | Levantamento de requisitos para Web                                                | Discute abordagens para levantamento de requisitos com  <br>foco em aplicações Web.                                       
 
 [Aqui estão as planilhas com os resultados dos formulários de pesquisa utilizados no artigo:](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas)
+
+[Questionário](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/)
+
+[Respostas do Formulário](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/)
+
+[Agrupamento de Perguntas por Tópicos](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/)
+
+[Codificação das Questões Subjetivas](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/)
 
