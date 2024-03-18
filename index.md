@@ -23,3 +23,7 @@
 | Usabilidade e acessibilidade na Web                                                | Apresenta e discute questões relacionadas a usabilidade  <br>para Web                                                                                                                  |
 | Levantamento de requisitos para Web                                                | Discute abordagens para levantamento de requisitos com  <br>foco em aplicações Web                                                                                                     |
 | Processos de desenvolvimento  <br>de software para Web                             | Discute processos de desenvolvimento de aplicações Web                                                                                                                                 |
+
+
+[Aqui estão as planilhas com os resultados dos formulários de pesquisa utilizados no artigo:](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas)
+
