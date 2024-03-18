@@ -1,6 +1,3 @@
----
- Manual Prático do Desenvolvedor Moderno: Alunos como criadores de conteúdos
----
 
 
 | Título do capítulo                                                                 | Descrição dos capítulos do livro                                                                                                                                                       |
