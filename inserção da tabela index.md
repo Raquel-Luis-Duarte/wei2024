@@ -1,6 +1,6 @@
 # Manual Prático do Desenvolvedor Moderno: Um Livro de Aluno para Aluno
 
-
+3
 | Título do capítulo                                                                 | Descrição dos capítulos do livro                                                                                                                                                       |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | TypScript e JavaScript                                                             | Demosntra as principais diferenças entre o JavaScript,  <br>e o TypeScript.                                                                                                          |
