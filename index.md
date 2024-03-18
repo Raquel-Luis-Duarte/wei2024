@@ -1,4 +1,5 @@
 
+# Manual Prático do Desenvolvedor Moderno: Um Livro de Aluno para Aluno
 
 Este trabalho apresenta um relato de experiência de um projeto para criação de um livro, no qual os alunos são criadores de conteúdos. O projeto conta com a participação de 18 alunos na criação de conteúdos voltados para o desenvolvimento de software para Web. Foi adotada a metodologia de aprendizagem de sala de aula invertida na qual os alunos se tornam ativos no processo de aprendizagem. Como avaliação do projeto, os participantes responderam um formulário, onde foram levantados lições aprendidas e desafios do projeto. Esse relato pode apoiar professores e alunos para utilizar a experiência relatada neste trabalho para aplicação em seus cursos e disciplinas.
 
