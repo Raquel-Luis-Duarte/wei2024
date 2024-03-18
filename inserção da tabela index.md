@@ -1,6 +1,4 @@
----
-Manual Prático do Desenvolvedor Moderno: Um Livro de Aluno para Aluno
----
+# Manual Prático do Desenvolvedor Moderno: Um Livro de Aluno para Aluno
 
 
 | Título do capítulo                                                                 | Descrição dos capítulos do livro                                                                                                                                                       |
