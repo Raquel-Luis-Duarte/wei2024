@@ -27,13 +27,13 @@ Abaixo segue os capítulos que compõem o livro, bem como as descrições de cad
 | Usabilidade e acessibilidade na Web                                                | Apresenta e discute questões relacionadas a usabilidade  <br>para Web.                                                                                                                  |
 | Levantamento de requisitos para Web                                                | Discute abordagens para levantamento de requisitos com  <br>foco em aplicações Web.                                       
 
-[Aqui estão as planilhas com os resultados dos formulários de pesquisa utilizados no artigo:](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas)
+[Aqui estão as planilhas com os resultados dos formulários de pesquisa utilizados no artigo:](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Pesquisa)
 
-[Questionário](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Planilhas/questionario_artigo_wei.pdf)
+[Questionário](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Pesquisa/questionario_artigo_wei.pdf)
 
-[Respostas do Formulário](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Planilhas/RespostasDoFormulario%20.csv)
+[Respostas do Formulário](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Pesquisa/RespostasDoFormulario%20.csv)
 
-[Agrupamento de Perguntas por Tópicos]([https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Planilhas/AgrupamentoPerguntas%20.csv))
+[Agrupamento de Perguntas por Tópicos](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Pesquisa/AgrupamentoPerguntas%20.csv)
 
-[Codificação das Questões Subjetivas](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Planilhas/QuestoesSubjetivas%20.csv)
+[Codificação das Questões Subjetivas](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Pesquisa/QuestoesSubjetivas%20.csv)
 
