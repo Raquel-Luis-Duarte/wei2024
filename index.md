@@ -1,5 +1,8 @@
 Este trabalho apresenta um relato de experiência de um projeto para criação de um livro, no qual os alunos são criadores de conteúdos. O projeto conta com a participação de 18 alunos na criação de conteúdos voltados para o desenvolvimento de software para Web. Foi adotada a metodologia de aprendizagem de sala de aula invertida na qual os alunos se tornam ativos no processo de aprendizagem. Como avaliação do projeto, os participantes responderam um formulário, onde foram levantados lições aprendidas e desafios do projeto. Esse relato pode apoiar professores e alunos para utilizar a experiência relatada neste trabalho para aplicação em seus cursos e disciplinas.
 
+A figura a seuir apresenta as cinco etapas seguidas para criação dos capítulos do livro, tendo
+como principais criadores de conteúdo os alunos participantes. 
+
 ![Pipeline de criação dos capítulos do livro e TCC](Imagens/1710849638150-d7edcb94-01a4-4d6c-9284-24d0a78c6876_1.jpg)
 
 Abaixo segue os capítulos que compõem o livro, bem como as descrições de cada capítulo.
