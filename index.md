@@ -29,11 +29,11 @@ Abaixo segue os capítulos que compõem o livro, bem como as descrições de cad
 
 [Aqui estão as planilhas com os resultados dos formulários de pesquisa utilizados no artigo:](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas)
 
-[Questionário](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/)
+[Questionário](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Planilhas/questionario_artigo_wei.pdf)
 
-[Respostas do Formulário](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/)
+[Respostas do Formulário](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Planilhas/RespostasDoFormulario%20.csv)
 
-[Agrupamento de Perguntas por Tópicos](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/)
+[Agrupamento de Perguntas por Tópicos]([https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Planilhas/AgrupamentoPerguntas%20.csv))
 
-[Codificação das Questões Subjetivas](https://github.com/Raquel-Luis-Duarte/wei2024/tree/main/Planilhas/)
+[Codificação das Questões Subjetivas](https://github.com/Raquel-Luis-Duarte/wei2024/blob/main/Planilhas/QuestoesSubjetivas%20.csv)
 
